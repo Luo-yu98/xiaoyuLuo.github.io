@@ -12,9 +12,9 @@ title                    : "Xiaoyu Luo"
 title_separator          : "-"
 name                     : &name "Xiaoyu Luo"
 description              : &description "Postdoc Associate at Boston University"
-url                      : https://XiaoyuLuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://luo-yu98.github.io/xiaoyuLuo.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "XiaoyuLuo.github.io"
+repository               : "xiaoyuLuo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
