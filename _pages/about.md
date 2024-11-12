@@ -14,7 +14,7 @@ I am currently a Postdoc Associate in the College of Engineering at Boston Unive
 
 Recent News
 ======
-[09/2024] I join the Division of Systems Engineering at Boston University and work as a Postdoc [See website](https://www.bu.edu/eng/profile/xiaoyuo-luo/)
+[09/2024] I join the Division of Systems Engineering at Boston University and work as a Postdoc [See website](https://www.bu.edu/eng/profile/xiaoyuo-luo/)<br>
 [06/2024] I obtained my Ph.D. degree at Shanghai Jiao Tong University
 
 
