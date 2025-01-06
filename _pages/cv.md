@@ -50,14 +50,11 @@ Service and leadership
   
 Invited Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  * 1st and 2nd Zhejiang University National Academic Forum for Ph.D. Candidates (11/2023, 12/2022)
+  * 2nd Distrbuted Control, Optimization and Security (D-COS) Zhizhen Academic Forum for Postgraduates (11/2022)
   
-Teaching
+Volunteers
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * 08/2023: Volunteer for WiOpt 2023, Singapore, website
   
 
