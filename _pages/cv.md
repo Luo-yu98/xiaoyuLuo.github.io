@@ -55,6 +55,6 @@ Invited Talks
   
 Volunteers
 ======
-  * 08/2023: Volunteer for WiOpt 2023, Singapore. [Details can see website](https://esd.sutd.edu.sg/wiopt2023/index.html).
+  * 08/2023: Volunteer for WiOpt 2023, Singapore. [Details can be found in this website](https://esd.sutd.edu.sg/wiopt2023/index.html).
   
 
