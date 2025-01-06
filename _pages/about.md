@@ -16,7 +16,7 @@ Recent News
 ======
 [11/2024] My paper titled ''Heuristic Learning for Co-Design Scheme of Optimal Sequential Attack'' has been accepted by Automatica as a full paper<br>
 [09/2024] I joined the Division of Systems Engineering at Boston University and work as a Postdoc [See website](https://www.bu.edu/eng/profile/xiaoyuo-luo/)<br>
-[06/2024] I obtained my Ph.D. degree at Shanghai Jiao Tong University
+[06/2024] I obtained my Ph.D. degree at Shanghai Jiao Tong University<br>
 [05/2024] I sucessfully defended my PhD thesis!
 
 
