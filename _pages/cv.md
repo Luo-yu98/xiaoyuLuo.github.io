@@ -43,7 +43,7 @@ Service and leadership
 * Independent reviewer for Journals
   * 2024-Currently: IEEE Transactions on Mobile Computing, IEEE Transactions on Cybernetics, IEEE Control Systems Letters (L-CSS), International Journal of Robust and Nonlinear Control, IEEE Systems Journal, IEEE Open Journal of Control Systems, 
   * 2022-Currently: IEEE Transactions on Control of Network Systems, KSII Transactions on Internet and Information Systems
-  * 2021-Currently: Wireless Netorks
+  * 2021-Currently: Wireless Networks
 * Independent reviewer for conferences
   * 2024-Currently: American Control Conference (ACC), IEEE Industrial Electronics Society Conference
   * 2023: IEEE Confernece on Decision and Control (CDC)
