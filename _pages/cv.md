@@ -11,38 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* 09/2019-06/2024: Ph.D. in Department of Automation,
+  * Shanghai Jiao Tong University (SJTU), Shanghai, China
+  * Supervisor: Prof. Jianping He
+* 06/2023-09/2023: Visiting Student in Engineering Systems and Design (ESD),
+  * Singapore University of Technology and Design (SUTD), Singapore
+  * Supervisor: Prof. Lingjie Duan
+* 09/2015-07/2019: B.S. in Department of Automation,
+  * Tianjin University (TJU), Tianjin, China
+  * Supervisor: Prof. Zhiqiang Zuo
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 09/2024-Currently: Postdoc Associate in the College of Engineering
+  * Boston University (BU), MA, USA
+  * Supervisor: Prof. Christos G. Cassandras, Prof. Roberto Tron, and Prof. Wenchao Li
   
-Skills
+Awards & Scholarships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Outstanding Graduate of Shanghai Jiao Tong University, 2024
+* National Scholarship for Doctoral Students, 2023
+* Nominated for the Robert Tempo Best CDC Paper Award, 2023
+* Honored with the THREE GOOD STUDENT of Shanghai Jiao Tong University, 2020
+* Outstanding Graduate of Tianjin University, 2019
 
-Publications
+Service and leadership
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Independent reviewer for Journals
+  * 2024-Currently: IEEE Transactions on Mobile Computing, IEEE Transactions on Cybernetics, IEEE Control Systems Letters (L-CSS), International Journal of Robust and Nonlinear Control, IEEE Systems Journal, IEEE Open Journal of Control Systems, 
+  * 2022-Currently: IEEE Transactions on Control of Network Systems, KSII Transactions on Internet and Information Systems
+  * 2021-Currently: Wireless Netorks
+* Independent reviewer for conferences
+  * 2024-Currently: American Control Conference (ACC), IEEE Industrial Electronics Society Conference
+  * 2023: IEEE Confernece on Decision and Control (CDC)
   
-Talks
+Invited Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -54,6 +60,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
