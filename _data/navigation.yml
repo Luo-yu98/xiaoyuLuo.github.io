@@ -14,5 +14,5 @@ main:
  # - title: "Blog Posts"
 #  url: /year-archive/
     
-  - title: "Miscellaneous"
-    url: /Miscellaneous/
+  # - title: "Miscellaneous"
+  #   url: /Miscellaneous/
