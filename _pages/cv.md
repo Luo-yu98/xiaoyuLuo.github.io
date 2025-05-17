@@ -52,9 +52,9 @@ Service and Leadership
   * IET Cyber-Physical Systems: Theory \& Applications
   * IEEE Systems Journal
   * IEEE Open Journal of Control Systems
-  * International Journal of Robust and Nonlinear Control 
-  * KSII Transactions on Internet and Information Systems
   * Wireless Networks
+  * International Journal of Robust and Nonlinear Control 
+  * KSII Transactions on Internet and Information Systems  
 * Reviewer for Conferences
   * American Control Conference (ACC), 
   * IEEE Confernece on Decision and Control (CDC)
