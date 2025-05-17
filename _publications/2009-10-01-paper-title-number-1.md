@@ -4,9 +4,11 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 Journal papers
 ====
-**X. Luo**, C. Fang, J. He, C. Zhao, and D. Paccagnan, ”Model-free False Data Injection Attack in Networked Control Systems: A Feedback Optimization Approach”, IEEE Transactions on Automatic Control, 2024. **[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10636335)**
+**X. Luo**, H. Pan, C. Fang, C. Zhao, P. Cheng, and J. He, ”Heuristic Learning for Co-Design Scheme of Optimal Sequential Attack”, Automatica, 2025. **(Full Paper)** **[PDF]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10636335](https://www.sciencedirect.com/science/article/pii/S0005109825000044))**
 
-**X. Luo**, C. Zhao, C. Fang, and J. He, ”Submodularity-based False Data Injection Attack Scheme in Multi-agent Dynamical Systems”, Automatica, 2024. **[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0005109823005939)**
+**X. Luo**, C. Fang, J. He, C. Zhao, and D. Paccagnan, ”Model-free False Data Injection Attack in Networked Control Systems: A Feedback Optimization Approach”, IEEE Transactions on Automatic Control, 2024. **(Full Paper)** **[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10636335)**
+
+**X. Luo**, C. Zhao, C. Fang, and J. He, ”Submodularity-based False Data Injection Attack Scheme in Multi-agent Dynamical Systems”, Automatica, 2024. **(Full Paper)** **[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0005109823005939)**
 
 **X. Luo**, C. Zhao, and J. He, ”Secure Multi-dimensional Consensus Algorithm against Malicious Attacks”, Automatica, 2023. **[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0005109823003850?fr=RR-2&ref=pdf_download&rr=8e09b470ef1e4cce)**
 
@@ -26,9 +28,4 @@ C. Zheng, X. Wang, **X. Luo**, C. Fang, and J. He, ”An openplc-based active re
 **X. Luo**, C. Zhao, and J. He, ”A Secure High-dimension Consensus Mechanism against Adversaries”, American Control Conference (ACC), 2021. **[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9482880)**
 
 **X. Luo**, J. He, and S. Zhu, ”On-board Supercapacitors Cooperative Charging Algorithm: Stability Analysis and Weight Optimization”, American Control Conference (ACC), 2020. **[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9147667)**
-
-
-Preprints
-====
-**X. Luo**, H. Pan, C. Fang, C. Zhao, P. Cheng, and J. He, ”Heuristic Learning for Co-Design Scheme of Optimal Sequential Attack”, arXiv preprint, 2023. **[ArXiv](https://arxiv.org/pdf/2311.09933)**
 
