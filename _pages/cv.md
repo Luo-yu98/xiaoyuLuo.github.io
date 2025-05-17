@@ -37,17 +37,31 @@ Awards & Scholarships
 * Nominated for the Robert Tempo Best CDC Paper Award, 2023
 * Honored with the THREE GOOD STUDENT of Shanghai Jiao Tong University, 2020
 * Outstanding Graduate of Tianjin University, 2019
+* Honored with Zhuang Bingchang Scholarship, Tianjin University, 2018
+* Honored with Tianjin Municipal People's Government Scholarship, 2017
 
-Service and leadership
+Service and Leadership
 ======
 * Reviewer for Journals
-  * 2024-Currently: IEEE Transactions on Mobile Computing, IEEE Transactions on Cybernetics, IEEE Control Systems Letters (L-CSS), International Journal of Robust and Nonlinear Control, IEEE Systems Journal, IEEE Open Journal of Control Systems, 
-  * 2022-Currently: IEEE Transactions on Automatic Control, Automatica, IEEE Transactions on Control of Network Systems, KSII Transactions on Internet and Information Systems
-  * 2021-Currently: Wireless Networks
+  * Automatica
+  * IEEE Transactions on Automatic Control
+  * IEEE Transactions on Control of Network Systems
+  * IEEE Transactions on Cybernetics
+  * IEEE Transactions on Mobile Computing
+  * IEEE Control Systems Letters (L-CSS)
+  * IET Cyber-Physical Systems: Theory \& Applications
+  * IEEE Systems Journal
+  * IEEE Open Journal of Control Systems
+  * International Journal of Robust and Nonlinear Control 
+  * KSII Transactions on Internet and Information Systems
+  * Wireless Networks
 * Reviewer for Conferences
-  * 2024-Currently: American Control Conference (ACC), IEEE Industrial Electronics Society Conference
-  * 2023: IEEE Confernece on Decision and Control (CDC)
-  * 2022: Chinese Control Conference (CCC), Chinese Automation Congress (CAC)
+  * American Control Conference (ACC), 
+  * IEEE Confernece on Decision and Control (CDC)
+  * IEEE Industrial Electronics Society Conference
+  * Chinese Control Conference (CCC)
+  * Chinese Automation Congress (CAC)
+  * Chinese Conference on Swarm Intelligence and Cooperative Control
   
 Invited Talks
 ======
