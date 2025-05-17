@@ -4,7 +4,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 Journal papers
 ====
-**X. Luo**, H. Pan, C. Fang, C. Zhao, P. Cheng, and J. He, ”Heuristic Learning for Co-Design Scheme of Optimal Sequential Attack”, Automatica, 2025. **(Full Paper)** **[PDF]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10636335](https://www.sciencedirect.com/science/article/pii/S0005109825000044)**
+**X. Luo**, H. Pan, C. Fang, C. Zhao, P. Cheng, and J. He, ”Heuristic Learning for Co-Design Scheme of Optimal Sequential Attack”, Automatica, 2025. **(Full Paper)** **[PDF](https://www.sciencedirect.com/science/article/pii/S0005109825000044)**
 
 **X. Luo**, C. Fang, J. He, C. Zhao, and D. Paccagnan, ”Model-free False Data Injection Attack in Networked Control Systems: A Feedback Optimization Approach”, IEEE Transactions on Automatic Control, 2024. **(Full Paper)** **[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10636335)**
 
