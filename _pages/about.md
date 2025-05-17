@@ -19,5 +19,3 @@ Recent News
 [06/2024] I obtained my Ph.D. degree at Shanghai Jiao Tong University<br>
 [05/2024] I sucessfully defended my PhD thesis!
 
-
-
