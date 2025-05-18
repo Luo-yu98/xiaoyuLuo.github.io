@@ -15,7 +15,7 @@ Education
 * 09/2019-06/2024: Ph.D. in Department of Automation,
   * Shanghai Jiao Tong University (SJTU), Shanghai, China
   * Supervisor: Prof. Jianping He
-* 06/2023-09/2023: Visiting Student in Engineering Systems and Design (ESD),
+* 06/2023-09/2023: Visiting Student in the School of Engineering Systems and Design (ESD),
   * Singapore University of Technology and Design (SUTD), Singapore
   * Supervisor: Prof. Lingjie Duan
 * 09/2015-07/2019: B.S. in Department of Automation,
