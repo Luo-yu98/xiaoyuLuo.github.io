@@ -24,9 +24,9 @@ Education
 
 
 
-Work experience
+Work Experiences
 ======
-* 09/2024-Currently: Postdoc Associate in the College of Engineering
+* 09/2024-Current: Postdoc Associate in the College of Engineering
   * Boston University (BU), MA, USA
   * Supervisor: Prof. Christos G. Cassandras, Prof. Roberto Tron, and Prof. Wenchao Li
   
@@ -40,7 +40,7 @@ Awards & Scholarships
 * Honored with Zhuang Bingchang Scholarship, Tianjin University, 2018
 * Honored with Tianjin Municipal People's Government Scholarship, 2017
 
-Service and Leadership
+Services & Leaderships
 ======
 * Reviewer for Journals
   * Automatica
