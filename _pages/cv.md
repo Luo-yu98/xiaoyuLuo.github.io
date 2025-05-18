@@ -49,14 +49,14 @@ Service and Leadership
   * IEEE Transactions on Cybernetics
   * IEEE Transactions on Mobile Computing
   * IEEE Control Systems Letters (L-CSS)
-  * IET Cyber-Physical Systems: Theory \& Applications
+  * IET Cyber-Physical Systems: Theory & Applications
   * IEEE Systems Journal
   * IEEE Open Journal of Control Systems
   * Wireless Networks
   * International Journal of Robust and Nonlinear Control 
   * KSII Transactions on Internet and Information Systems  
 * Reviewer for Conferences
-  * American Control Conference (ACC), 
+  * American Control Conference (ACC)
   * IEEE Confernece on Decision and Control (CDC)
   * IEEE Industrial Electronics Society Conference
   * Chinese Control Conference (CCC)
