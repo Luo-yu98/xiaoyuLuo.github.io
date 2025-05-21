@@ -14,6 +14,7 @@ I am currently a Postdoc Associate in the Division of Systems Engineering at Bos
 
 Recent News
 ======
+[05/2025] My co-author paper titled ''Securing Cyber-Physical Systems under Periodic Detection: Optimal Stealthy Linear Attack and Countermeasure'' has been accepted by IEEE TCNS. Congrats Qi！
 [11/2024] My paper titled ''Heuristic Learning for Co-Design Scheme of Optimal Sequential Attack'' has been accepted by Automatica as a full paper<br>
 [09/2024] I joined the Division of Systems Engineering at Boston University and work as a Postdoc [See website](https://www.bu.edu/eng/profile/xiaoyuo-luo/)<br>
 [06/2024] I obtained my Ph.D. degree at Shanghai Jiao Tong University<br>
