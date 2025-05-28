@@ -48,6 +48,7 @@ Services & Leaderships
   * IEEE Transactions on Control of Network Systems
   * IEEE Transactions on Cybernetics
   * IEEE Transactions on Mobile Computing
+  * IEEE Transactions on Vehicular Technology
   * IEEE Control Systems Letters (L-CSS)
   * IET Cyber-Physical Systems: Theory & Applications
   * IEEE Systems Journal
