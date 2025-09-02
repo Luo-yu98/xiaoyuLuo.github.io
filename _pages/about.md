@@ -17,7 +17,7 @@ Recent News
 **[2025, Jul 15]** Two co-author papers were accepted by IEEE CDC. Congrats Lu and Du! <br>
 **[2025, May 21]** My co-author paper titled ''Securing Cyber-Physical Systems under Periodic Detection: Optimal Stealthy Linear Attack and Countermeasure'' was accepted by IEEE TCNS. Congrats Qi！<br>
 **[2024, Nov 26]** My paper titled ''Heuristic Learning for Co-Design Scheme of Optimal Sequential Attack'' was accepted by Automatica as a full paper<br>
-**[2024, Sep 1]** I joined the Division of Systems Engineering at Boston University and work as a Postdoc [See website](https://www.bu.edu/eng/profile/xiaoyuo-luo/)<br>
+**[2024, Sep 1]** I joined the Division of Systems Engineering at Boston University and work as a Postdoc 
 **[2024, Jun 30]** I obtained my Ph.D. degree at Shanghai Jiao Tong University<br>
 **[2024, May 23]** I sucessfully defended my PhD thesis!
 
