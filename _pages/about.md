@@ -17,7 +17,7 @@ Recent News
 **[Jul 15, 2025]** Two co-author papers were accepted by IEEE CDC. Congrats Lu and Du! <br>
 **[May 21, 2025]** My co-author paper titled ''Securing Cyber-Physical Systems under Periodic Detection: Optimal Stealthy Linear Attack and Countermeasure'' was accepted by IEEE TCNS. Congrats Qi！<br>
 **[Nov 26, 2024]** My paper titled ''Heuristic Learning for Co-Design Scheme of Optimal Sequential Attack'' was accepted by Automatica as a full paper<br>
-**[Sep 1, 2024]** I joined the Division of Systems Engineering at Boston University and work as a Postdoc 
+**[Sep 1, 2024]** I joined the Division of Systems Engineering at Boston University and work as a Postdoc <br>
 **[Jun 30, 2024]** I obtained my Ph.D. degree at Shanghai Jiao Tong University<br>
 **[May 23, 2024]** I sucessfully defended my PhD thesis!
 
