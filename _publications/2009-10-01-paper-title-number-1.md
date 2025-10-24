@@ -14,6 +14,10 @@ Journal papers
 
 [5]. **X. Luo**, K. Luo, J. He, Y. Miao, and S. Zhu, ”Fault Tolerable Cooperative Control for Charging Supercapacitors of Catenary-Free Trams”, **IEEE Transactions on Control of Network Systems (TCNS)**, 2022. **[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9910403)**
 
+[6]. J. Qi, **X. Luo**, C. Fang, and J. He, ”Securing Cyber-Physical Systems under Periodic Detection: Optimal Stealthy Linear Attack and Countermeasure”, **IEEE Transactions on Control of Network Systems (TCNS)**, 2025. **[PDF](https://ieeexplore.ieee.org/abstract/document/11039024)**
+
+[7]. Q. Liu, C. Zhao, **X. Luo**, P. Cheng, and J. Chen, ”Resilient Distributed Control for Ensuring Safety and Stability in DC Microgrids Against False Data Injection Attacks”, **IEEE Transactions on Smart Grid**, 2025. **[PDF](https://ieeexplore.ieee.org/abstract/document/11126164?casa_token=Mn_W80A58AgAAAAA:DcXQBdpYcDtQbNAK870D1pXAmeFPnKbKbYUpvzI4gG8Nlm6_9yg5iNbbdV9HC24xqa-GlbTIgA)**
+
 
 Conference papers
 ====
