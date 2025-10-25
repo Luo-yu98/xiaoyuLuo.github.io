@@ -22,7 +22,7 @@ repository               : "xiaoyuLuo.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Xiaoyu Luo"
+  name             : "Xiaoyu Luo<br/><span style='font-weight:500;'>罗潇雨</span>"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc Associate at Boston University"
   location         : "Boston, MA, USA"
