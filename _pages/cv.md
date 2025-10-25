@@ -66,8 +66,10 @@ Services & Leaderships
   
 Invited Talks
 ======
-  * 1st and 2nd Zhejiang University National Academic Forum for Ph.D. Candidates (11/2023, 12/2022)
-  * 2nd Distrbuted Control, Optimization and Security (D-COS) Zhizhen Academic Forum for Postgraduates (11/2022)
+  * 2025 Oct, Invited Seminar from University of Florida, USA, (online).
+  * 2023 Dec, The 2nd Zhejiang University National Academic Forum for Ph.D. Candidates, Zhengjiang University, Zhejiang, China. 
+  * 2022 Nov, The 1st Zhejiang University National Academic Forum for Ph.D. Candidates, Zhengjiang University, Zhejiang, China (online).
+  * 2022 Nov, The 2nd Distrbuted Control, Optimization and Security (D-COS) Zhizhen Academic Forum for Postgraduates, online.
   
 Volunteers
 ======
