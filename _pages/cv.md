@@ -59,10 +59,6 @@ Services & Leaderships
 * Reviewer for Conferences
   * American Control Conference (ACC)
   * IEEE Confernece on Decision and Control (CDC)
-  * IEEE Industrial Electronics Society Conference
-  * Chinese Control Conference (CCC)
-  * Chinese Automation Congress (CAC)
-  * Chinese Conference on Swarm Intelligence and Cooperative Control
   
 Invited Talks
 ======
