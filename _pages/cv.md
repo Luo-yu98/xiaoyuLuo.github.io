@@ -26,7 +26,7 @@ Education
 
 Work Experiences
 ======
-* 02/2026-Current: Postdoc Associate in the Department of Mechanical Aerospace Engineering
+* 02/2026-Current: Postdoc Associate in the Department of Mechanical and Aerospace Engineering
   * University of Califonia, Merced, CA, USA
   * Supervisor: Prof. Ricardo de Castro
 * 09/2024-02/2026: Postdoc Associate in the Division of Systems Engineering
