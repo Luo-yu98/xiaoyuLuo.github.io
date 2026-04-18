@@ -26,7 +26,10 @@ Education
 
 Work Experiences
 ======
-* 09/2024-Current: Postdoc Associate in the College of Engineering
+* 02/2026-Current: Postdoc Associate in the Department of Mechanical Aerospace Engineering
+  * University of Califonia, Merced, CA, USA
+  * Supervisor: Prof. Ricardo de Castro
+* 09/2024-02/2026: Postdoc Associate in the Division of Systems Engineering
   * Boston University (BU), MA, USA
   * Supervisor: Prof. Christos G. Cassandras, Prof. Roberto Tron, and Prof. Wenchao Li
   
