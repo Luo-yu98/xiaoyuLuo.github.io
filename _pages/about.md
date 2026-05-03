@@ -16,6 +16,7 @@ Recent News
 ======
 **[Apr 23, 2026]** I gave a guest lecture for the graduate-level course ME210 at UC Merced.  <br>
 **[Apr 17, 2026]** I presented a poster at 8th NorCal Control Workshop.  <br>
+**[Apr 13, 2026]** I gave a SNRI Early Career Research Lightning Talk.  <br>
 **[Jul 15, 2025]** Two co-author papers were accepted by IEEE CDC. Congrats Lu and Du! <br>
 **[May 21, 2025]** My co-author paper titled ''Securing Cyber-Physical Systems under Periodic Detection: Optimal Stealthy Linear Attack and Countermeasure'' was accepted by IEEE TCNS. Congrats Qi！<br>
 **[Nov 26, 2024]** My paper titled ''Heuristic Learning for Co-Design Scheme of Optimal Sequential Attack'' was accepted by Automatica as a full paper<br>
