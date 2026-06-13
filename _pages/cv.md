@@ -24,12 +24,12 @@ Education
 
 
 
-Work Experiences
+Academic Appointments
 ======
-* 02/2026-Current: Postdoc Associate in the Department of Mechanical and Aerospace Engineering
+* 01/2026-Present: Postdoctoral Associate in the Department of Mechanical and Aerospace Engineering
   * University of Califonia, Merced, CA, USA
   * Supervisor: Prof. Ricardo de Castro
-* 09/2024-02/2026: Postdoc Associate in the Division of Systems Engineering
+* 09/2024-01/2026: Postdoctoral Associate in the Division of Systems Engineering
   * Boston University (BU), MA, USA
   * Supervisor: Prof. Christos G. Cassandras, Prof. Roberto Tron, and Prof. Wenchao Li
   
@@ -38,7 +38,7 @@ Awards & Scholarships
 * Outstanding Graduate of Shanghai Jiao Tong University, 2024
 * National Scholarship for Doctoral Students, 2023
 * Nominated for the Robert Tempo Best CDC Paper Award, 2023
-* Honored with the THREE GOOD STUDENT of Shanghai Jiao Tong University, 2020
+* Honored with the Merit Student Award of Shanghai Jiao Tong University, 2020
 * Outstanding Graduate of Tianjin University, 2019
 * Honored with Zhuang Bingchang Scholarship, Tianjin University, 2018
 * Honored with Tianjin Municipal People's Government Scholarship, 2017
