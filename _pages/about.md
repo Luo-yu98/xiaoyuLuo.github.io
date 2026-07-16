@@ -14,6 +14,7 @@ I am currently a Postdoctoral researcher in the Department of Mechanical and Aer
 
 Recent News
 ======
+**[Jul 15, 2026]** One co-author paper was accepted by IEEE CDC. Congrats Du! <br>
 **[Apr 23, 2026]** I gave a guest lecture at UC Merced.  <br>
 **[Apr 17, 2026]** I presented a poster at 8th NorCal Control Workshop.  <br>
 **[Apr 13, 2026]** I gave a SNRI Early Career Researcher Lightning Talk.  <br>
