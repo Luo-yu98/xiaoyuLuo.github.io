@@ -14,7 +14,7 @@ I am currently a Postdoctoral researcher in the Department of Mechanical and Aer
 
 Recent News
 ======
-**[Nov 3, 2026]** My paper titled ''Resilient Data-driven Safety-critical Control via Discrete-time Control Barrier Function'' was accepted by IEEE Control Systems Letters (L-CSS).”* <br>
+**[Nov 3, 2026]** My paper titled ''Resilient Data-driven Safety-critical Control via Discrete-time Control Barrier Function'' was accepted by IEEE Control Systems Letters (L-CSS). <br>
 **[Sep 26, 2026]** I presented a poster at the 2026 NSF FRR Robotics Annual Meeting in Pittsburgh, Pennsylvania, themed *“Robotics in the Age of AI.”* <br>
 **[Jul 15, 2026]** One co-author paper was accepted by IEEE CDC. Congrats Du! <br>
 **[Apr 23, 2026]** I gave a guest lecture at UC Merced.  <br>
